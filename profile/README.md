@@ -1,6 +1,4 @@
-# Statiofy Limited
-
-Welcome Here!  
+# Welcome to Statiofy Limited!
 
 ## Useful Links
 - [Main Statiofy Repo](https://github.com/statiofy/statiofy)
